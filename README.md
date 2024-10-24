@@ -1,13 +1,13 @@
 
-<H3>NAME: Janani.S </H3>
+<H3>NAME: JANANI.S </H3>
 <H3>REGISTER NO: 212222230049</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE: 24.10.2024</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
-<H3>Aim:</H3>
+<H3>AIM:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
 
-<H3>Theory:</H3>
+<H3>THEORY:</H3>
 <P>Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows XOR truth table </P>
 
 <P>XOR is a classification problem, as it renders binary distinct outputs. If we plot the INPUTS vs OUTPUTS for the XOR gate, as shown in figure below </P>
@@ -113,5 +113,5 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/fcf38ad2-c59f-43da-b24b-48a7cfe7b40a)
 
-<H3>Result:</H3>
+<H3>RESULT:</H3>
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
